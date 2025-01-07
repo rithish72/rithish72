@@ -10,14 +10,15 @@ Hi, I'm Rithish! I'm a passionate developer driven by curiosity and innovation. 
 - **Database**: MySQL.
 
 ## Projects
-- **Book Management System**: Description of your project
-- **Instagram Clone**:
-- **T20 World Cup 2022 Analysis**:
+- **Book Management System**: The Book Management Application is a simple and efficient tool for organizing and tracking books. It is perfect for individuals, libraries, or bookstores to manage their collections seamlessly.
+- **Role Based Access Control**
+- **Instagram Clone**
+- **T20 World Cup 2022 Analysis**
 - **Mask Detection Using AIML**: Developed a real-time mask detection system using machine learning and OpenCV during an internship at Verzeo. The project enhanced public safety by identifying mask compliance.
-
+<!--
 ## GitHub Stats
 ![GitHub Streak Stats](https://your-github-stats-url)
-![GitHub Readme Stats](https://your-github-readme-stats-url)
+![GitHub Readme Stats](https://your-github-readme-stats-url)-->
 
 ## Social Media
 - [LinkedIn](https://www.linkedin.com/in/rithish-kurapati-988130215/)
