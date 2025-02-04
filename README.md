@@ -26,7 +26,12 @@ A data-driven project that involves statistical analysis and visualization of th
 Developed a real-time mask detection system using machine learning and OpenCV during an internship at Verzeo. This project aimed to enhance public safety by monitoring mask compliance in real-time.
 
 ## GitHub Stats
-- [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rithish72&theme=radical)
+<a href='https://github.com/rithish72/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rithish72/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rithish72/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 ## Lets Contact
 - LinkedIn: https://www.linkedin.com/in/rithish-kurapati-988130215/
