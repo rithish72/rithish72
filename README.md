@@ -57,3 +57,9 @@ Developed a real-time mask detection system using machine learning and OpenCV du
 - LinkedIn: https://www.linkedin.com/in/rithish-kurapati-988130215/
 - Email: rithishkurapati72@gmail.com
 - Phone no: 9542608022
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=rithish72&color=blue" alt="profile views" /> 
+  <img src="https://img.shields.io/github/followers/rithish72" alt="followers" /> 
+  <img src="https://img.shields.io/github/stars/rithish72?label=Profile%20Stars&logo=Profile%20stars&logoColor=g" alt="stars" /> 
+</p>
