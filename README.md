@@ -19,10 +19,9 @@ Hi, I'm Rithish! I'm a passionate developer driven by curiosity and innovation. 
   ![](icons/react/react.png)
 
 - **Tools**:
+
+  ![](icons/powerbi/powerbi.png)
   
-  ![](icons/vscode/vscode.png)
-  ![](icons/eclipse/eclipse.png)
-  ![](icon/powerbi/powerbi.png)
 - **Database**:
 
   ![](icons/mysql/mysql.png)
