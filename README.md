@@ -42,6 +42,13 @@ A data-driven project that involves statistical analysis and visualization of th
 - **Mask Detection Using AIML:**
 Developed a real-time mask detection system using machine learning and OpenCV during an internship at Verzeo. This project aimed to enhance public safety by monitoring mask compliance in real-time.
 
+## github stats
+<p align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithish72&theme=dark&layout=compact" alt="Top Languages"/>
+  
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=rithish72&show_icons=true&theme=dark&line_height=31" alt="Rithish's GitHub Stats"/>
+</p>
+
 ## Lets Contact
 - LinkedIn: https://www.linkedin.com/in/rithish-kurapati-988130215/
 - Email: rithishkurapati72@gmail.com
