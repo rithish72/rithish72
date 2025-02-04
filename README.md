@@ -4,7 +4,12 @@
 Hi, I'm Rithish! I'm a passionate developer driven by curiosity and innovation. I thrive on tackling challenging projects that push my boundaries and enhance my skills. My goal is to create impactful and scalable solutions in the tech world.
 
 ## Skills
-- **Programming Languages**: Java, Python, JavaScript, C.
+- **Programming Languages**:
+
+  <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+  <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a> 
+  
 - **Web Development**: HTML, CSS, JavaScript, React.js.
 - **Tools**: VS Code, Eclipse, Power BI.
 - **Database**: MySQL.
@@ -24,14 +29,6 @@ A data-driven project that involves statistical analysis and visualization of th
 
 - **Mask Detection Using AIML:**
 Developed a real-time mask detection system using machine learning and OpenCV during an internship at Verzeo. This project aimed to enhance public safety by monitoring mask compliance in real-time.
-
-## GitHub Stats
-<a href='https://github.com/rithish72/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rithish72/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rithish72/github-stats-transparent/output/generated/languages.svg)
-
-</a>
 
 ## Lets Contact
 - LinkedIn: https://www.linkedin.com/in/rithish-kurapati-988130215/
