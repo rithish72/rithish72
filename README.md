@@ -20,8 +20,6 @@ Hi, I'm Rithish! I'm a passionate developer driven by curiosity and innovation. 
 ![GitHub Streak Stats](https://your-github-stats-url)
 ![GitHub Readme Stats](https://your-github-readme-stats-url)-->
 
-## Social Media
+## Lets Contact
 - [LinkedIn](https://www.linkedin.com/in/rithish-kurapati-988130215/)
-
-## Contact Me
-Feel free to reach out to me via email at rithishkurapati72@gmail.com or connect with me on LinkedIn!
+- [Email](rithishkurapati72@gmail.com)
