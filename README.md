@@ -5,14 +5,27 @@ Hi, I'm Rithish! I'm a passionate developer driven by curiosity and innovation. 
 
 ## Skills
 - **Programming Languages**:
-
-  <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-  <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a> 
   
-- **Web Development**: HTML, CSS, JavaScript, React.js.
-- **Tools**: VS Code, Eclipse, Power BI.
-- **Database**: MySQL.
+  ![](icons/java/java.png)
+  ![](icons/python/python.png)
+  ![](icons/javascript/javascript.png)
+  ![](icons/c/c.png)
+  
+- **Web Development**:
+  
+  ![](icons/html/html.png)
+  ![](icons/css/css.png)
+  ![](icons/javascript/jascript.png)
+  ![](icons/react/react.png)
+
+- **Tools**:
+  
+  ![](icons/vscode/vscode.png)
+  ![](icons/eclipse/eclipse.png)
+  ![](icon/powerbi/powerbi.png)
+- **Database**:
+
+  ![](icons/mysql/mysql.png)
 
 ## Projects
 - **Book Management System:**
