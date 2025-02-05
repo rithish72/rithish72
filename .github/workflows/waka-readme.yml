@@ -1,19 +1,16 @@
-name: Update WakaTime Stats
+name: Waka Readme
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"  # Runs every hour
-  workflow_dispatch:  # Allows manual triggering of the workflow
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
 
 jobs:
-  update-stats:
+  update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Update WakaTime Readme Stats
-        uses: athul/waka-readme@v1.2.2
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
