@@ -53,14 +53,6 @@ Developed a real-time mask detection system using machine learning and OpenCV du
   </a>
 </p>
 
-### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-
-```
-<!--END_SECTION:waka-->
-
 
 ## Lets Contact
 - LinkedIn: https://www.linkedin.com/in/rithish-kurapati-988130215/
