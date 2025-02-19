@@ -14,16 +14,26 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # Use latest version of checkout action
+
+      - name: Debug Secrets (Remove after testing)
+        run: |
+          echo "Checking environment variables..."
+          echo "Repo: ${{ github.repository }}"
 
       - name: Update WakaTime Readme Stats
-        uses: athul/waka-readme@main  # Use latest available version
+        uses: athul/waka-readme@v2.4.2  # Use a stable version
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: rithish72/rithish72
+          REPOSITORY: ${{ github.repository }}  # Automatically uses the correct repo
           SHOW_TITLE: true
           LANG_COUNT: 5
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_TOTAL: false
+
+      - name: Verify Changes
+        run: |
+          git status
+          cat README.md | tail -n 20  # Show last 20 lines for debugging
