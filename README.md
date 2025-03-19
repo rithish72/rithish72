@@ -15,12 +15,15 @@ Hi, I'm Rithish! I'm a passionate developer driven by curiosity and innovation. 
   
   ![](icons/html/html.png)
   ![](icons/css/css.png)
-  ![](icons/javascript/jascript.png)
+  ![](icons/javascript/javascript.png)
   ![](icons/react/react.png)
+  ![](icons/node/node.png)
 
 - **Tools**:
 
   ![](icons/powerbi/powerbi.png)
+  ![](icons/eclipseide/eclipseide.png)
+  ![](icons/vscode/vscode.png)
   
 - **Database**:
 
