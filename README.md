@@ -1,68 +1,124 @@
-# Kurapati Rithish
+<h1 align="center">Hi 👋, I'm Rithish Kurapati</h1>
+<h3 align="center">Software Engineer | Full Stack Developer | Java • MERN • SAP ABAP</h3>
 
-## About Me
-Hi, I'm Rithish! I'm a passionate developer driven by curiosity and innovation. I thrive on tackling challenging projects that push my boundaries and enhance my skills. My goal is to create impactful and scalable solutions in the tech world.
-
-## Skills
-- **Programming Languages**:
-  
-  ![](icons/java/java.png)
-  ![](icons/python/python.png)
-  ![](icons/javascript/javascript.png)
-  ![](icons/c/c.png)
-  
-- **Web Development**:
-  
-  ![](icons/html/html.png)
-  ![](icons/css/css.png)
-  ![](icons/javascript/javascript.png)
-  ![](icons/react/react.png)
-  ![](icons/node/node.png)
-
-- **Tools**:
-
-  ![](icons/powerbi/powerbi.png)
-  ![](icons/eclipseide/eclipseide.png)
-  ![](icons/vscode/vscode.png)
-  
-- **Database**:
-
-  ![](icons/mysql/mysql.png)
-
-## Projects
-- **Book Management System:**
-A simple and efficient tool for organizing and tracking books. Ideal for individuals, libraries, or bookstores to manage collections seamlessly.
-
-- **Role-Based Access Control:**
-A project focused on implementing access control based on user roles, ensuring security and proper permission management.
-
-- **Instagram Clone:**
-A project that replicates key features of Instagram, showcasing both front-end and back-end development skills.
-
-- **T20 World Cup 2022 Analysis:**
-A data-driven project that involves statistical analysis and visualization of the T20 World Cup 2022, uncovering insightful trends and patterns.
-
-- **Mask Detection Using AIML:**
-Developed a real-time mask detection system using machine learning and OpenCV during an internship at Verzeo. This project aimed to enhance public safety by monitoring mask compliance in real-time.
-
-## GitHub Stats
 <p align="center">
-  <a href="https://github.com/rithish72">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rithish72&show_icons=true&theme=tokyonight&hide_border=true" alt="Rithish's GitHub Stats"/>
-  </a>
-  
-  <a href="https://github.com/rithish72">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithish72&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=rithish72&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/rithish72?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/rithish72?label=Stars&style=social" />
 </p>
 
-## Lets Contact
-- LinkedIn: https://www.linkedin.com/in/rithish-kurapati-988130215/
-- Email: rithishkurapati72@gmail.com
-- Phone no: 9542608022
+---
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=rithish72&color=blue" alt="profile views" /> 
-  <img src="https://img.shields.io/github/followers/rithish72" alt="followers" /> 
-  <img src="https://img.shields.io/github/stars/rithish72?label=Profile%20Stars&logo=Profile%20stars&logoColor=g" alt="stars" /> 
+## 👨‍💻 About Me
+
+- 💻 Software Engineer with experience in **Full Stack Development & REST APIs**
+- ⚙️ Skilled in **Java, MERN Stack, SAP ABAP (S/4HANA)**
+- 📊 Passionate about **scalable backend systems & performance optimization**
+- 🚀 Currently working on **real-world production APIs & system design**
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://raw.githubusercontent.com/rithish72/rithish72/main/icons/java/java.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/rithish72/rithish72/main/icons/python/python.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/rithish72/rithish72/main/icons/javascript/javascript.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/rithish72/rithish72/main/icons/c/c.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/rithish72/rithish72/main/icons/mysql/mysql.png" width="40"/>
 </p>
+
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://raw.githubusercontent.com/rithish72/rithish72/main/icons/node/node.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/rithish72/rithish72/main/icons/react/react.png" width="40"/>
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/rithish72/rithish72/main/icons/html/html.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/rithish72/rithish72/main/icons/css/css.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/rithish72/rithish72/main/icons/javascript/javascript.png" width="40"/>
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://raw.githubusercontent.com/rithish72/rithish72/main/icons/vscode/vscode.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/rithish72/rithish72/main/icons/eclipseide/eclipseide.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/rithish72/rithish72/main/icons/powerbi/powerbi.png" width="40"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 Bus Ticket Booking Platform
+- Built with **React, Node.js, MySQL**
+- 🔐 JWT Authentication
+- ⚡ Optimized queries → **40% faster performance**
+
+### 📌 Book Management System
+- REST API backend (Express.js)
+- ⚡ **Sub-50ms response time**
+- Pagination + validation
+
+### 📌 Role-Based Access Control (RBAC)
+- Secure **JWT-based authentication**
+- Scalable permission system
+
+### 📌 Instagram Clone
+- Full-stack app with **CRUD + Auth**
+
+### 📌 T20 World Cup Analysis
+- 📊 Power BI dashboards with insights
+
+### 📌 Mask Detection System
+- 🤖 OpenCV + Machine Learning (real-time)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=rithish72&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithish72&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rithish72&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rithish72&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 🏅 Built scalable APIs with **performance optimization**
+- 📈 Reduced API response time by in production
+- 🔐 Implemented secure systems with **zero unauthorized access**
+- ⚡ Strong foundation in **DSA, OOP & System Design**
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/rithish-kurapati-988130215/
+- 📧 Email: rithishkurapati72@gmail.com
+
+---
+
+## ⚡ Current Focus
+
+- 🚀 Backend Engineering (Node.js)
+- 📚 System Design & DSA
+- 🔧 Performance Optimization & Scalable APIs
+
+---
+
+## 💡 Fun Fact
+
+I enjoy building systems that are not just functional — but **fast, scalable, and production-ready** 🚀
